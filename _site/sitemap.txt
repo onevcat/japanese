@@ -1,0 +1,10 @@
+
+http://japanses.onevcat.com/atom.xml
+http://japanses.onevcat.com/categories/index.html
+http://japanses.onevcat.com/feed/index.html
+http://japanses.onevcat.com/index.html
+http://japanses.onevcat.com/sitemap.txt
+http://japanses.onevcat.com/tags/index.html
+
+http://japanses.onevcat.com/新標準日本語－初級/2012/08/29/%E6%96%B0%E6%A8%99%E6%97%A5%E7%AC%AC%E4%B8%80%E8%AA%B2
+http://japanses.onevcat.com/lessons/2011/12/29/jekyll-introduction
