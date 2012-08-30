@@ -1,7 +1,7 @@
 permalink: /:categories/:year/:month/:day/:title
 pygments: true
 markdown: rdiscount
-url: http://japanese.onevcat.com/
+url: http://japanese.onevcat.com
 title : OneV's Japanese Learning
 tagline: 
 author : onevcat
