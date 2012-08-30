@@ -1,5 +1,5 @@
 ---
-title: OneVの日本語の勉強
+title: 日本語のノート
 layout: page
 ---
 
