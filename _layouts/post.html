@@ -7,7 +7,7 @@ layout: default
 </section>
 <section class="meta">
 <span class="author">
-  <a href="http://japanese.onevcat.com">{{ site.author }}</a>
+  <a href="http://onevcat.com">{{ site.author }}</a>
 </span>
 <span class="time">
   /
@@ -21,7 +21,7 @@ layout: default
 <span class="categories">
   in categories
   {% for cat in page.categories %}
-  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}
@@ -29,7 +29,7 @@ layout: default
 <span class="tags">
   tagged with 
   {% for tag in page.tags %}
-  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}
